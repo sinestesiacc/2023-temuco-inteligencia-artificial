@@ -18,3 +18,5 @@ curso impartido por Aarón Montoya-Moraga, por invitación de Sinestesia y Casa 
 - https://p5js.org/
 - https://ml5js.org/
 - https://runwayml.com/
+- https://wekinator.org/
+- https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info
