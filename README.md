@@ -15,3 +15,6 @@ curso impartido por Aarón Montoya-Moraga, por invitación de Sinestesia y Casa 
 - Casey Reas, Making Pictures with Generative Adversarial Networks https://www.anteism.com/shop/making-pictures-with-generative-adversarial-networks-casey-reas
 - Allison Parrish, Reading and Writing Electronic Text, https://rwet.decontextualize.com/
 - Creative Inquiry, Open Source Software Toolkits for the Arts https://github.com/CreativeInquiry/OSSTA-Report
+- https://p5js.org/
+- https://ml5js.org/
+- https://runwayml.com/
